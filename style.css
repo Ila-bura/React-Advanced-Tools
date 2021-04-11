@@ -99,12 +99,10 @@ p {
   }
   p {
     text-align: center;
-    width: fit-content;
   }
   .project-link {
     display: block;
     text-align: center;
-
-    width: fit-content;
+    margin: 0 20px;
   }
 }
